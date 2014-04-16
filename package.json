@@ -1,6 +1,6 @@
 {
     "name": "Brackets-RST",
-    "title": "reStructuredText for Brackets",
+    "title": "Brackets-RST",
     "description": "Adds reStructuredText support for Brackets",
     "homepage": "https://github.com/djw8605/brackets-rst",
     "version": "1.0.0",
