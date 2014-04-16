@@ -3,7 +3,7 @@
     "title": "Brackets-RST",
     "description": "Adds reStructuredText support for Brackets",
     "homepage": "https://github.com/djw8605/brackets-rst",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Derek Weitzel <djw8605@gmail.com> (http://github.com/djw8605)",
     "license": "MIT",
     "engines": {
